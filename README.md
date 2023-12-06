@@ -7,8 +7,10 @@ Essa aqui foi a minha primeira experiência com HTML, meu primeiro projeto.
 
 A ideia do site é o anuncio de um filme que será lançando e foi criado esse site para a divulgação do mesmo, onde, através do menu suspenso, você pode navegar por algumas abas e poder desfrutar de informações sobre esse filme.
 
-Aqui você consegue ver o visual da HOME do site do meu prejeto:
+Aqui você consegue ver o visual site do meu prejeto:
 
-<iframe src="https://giphy.com/embed/1DFvZPSqmL1XjJJ8WO" width="480" height="234" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1DFvZPSqmL1XjJJ8WO">via GIPHY</a></p>
+[Site - Projeto Batman](https://projeto1-edvanidias.netlify.app/)
 
 Eu espero que esse seja o primeiro de muitos projetos mais complexos!!
+
+### Espero que vocês curtam!
